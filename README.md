@@ -1,5 +1,4 @@
-# DIGITEK
-
+# Digitek 💻
 Aceleramos la transformación digital de las empresas para aumentar su competitividad. 💻
 
 # Nuestros Valores
