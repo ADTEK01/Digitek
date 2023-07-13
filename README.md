@@ -1,6 +1,6 @@
 # DIGITEK
 
-Aceleramos la transformación digital de las empresas para aumentar su competitividad.
+Aceleramos la transformación digital de las empresas para aumentar su competitividad. 💻
 
 # Nuestros Valores
 1. ![image](https://github.com/ADTEK01/Digitek/assets/137839332/5d9515dc-dabe-4dcd-bce2-40d6ce24669f) CLIENTE AL CENTRO "Obsesión y respeto por el cliente"
