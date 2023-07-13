@@ -1,12 +1,35 @@
 Cuestionario Java
 
 ¿Qué es JAVA?
+R= Java es un lenguaje de programación de alto nivel, multi-plataforma. 
+
 ¿Cuáles son las características en JAVA?
-¿Porque Java es conciderado de alto rendimiento?
+R= -Polimorfismo
+   - Abstracción
+   - Herencia
+   - Encapsulacion
+   - Orientado a objetos
+
+Ventajas de usar JAVA
+R= Java es fácil de aprender. 
+   Java fue diseñado para ser fácil de usar y, por lo tanto, es fácil de escribir, compilar, depurar y aprender que otros lenguajes de programación.
+   Java está orientado a objetos.
+   Java es independiente de la plataforma.
+
 ¿Qué se entiende por variable local y variable de instancia?
+R= Variable loca: son  las variables que han existido dentro del propio método.
+    Variables de instancia: se define dentro de la clase y fuera del método y el alcance de las variables que existen en toda la clase
+
 ¿Qué es una clase?
+R= Una clase tiene variables y métodos y está integrada por códigos.
+
 ¿Qué es un objeto?
+R= Es una instancia de una clase. El objeto tiene estado y comportamiento.
+
 Diferencia entre Array y Array List
+R= El Array maneja un tamaño que se da en el momento de la declaración de la matriz en cambio el Array List tiene un tamaño dinamico, osea se le puede asignar
+
 ¿Qué es la herencia?
+R=  Indica que una clase puede extenderse a otra clase. De esta manera, los códigos puedan ser reutilizados de una clase a otra.
 Diferencia entre String, String Builder y String Buffer.
 
