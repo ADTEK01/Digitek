@@ -10,9 +10,7 @@ Aceleramos la transformación digital de las empresas para aumentar su competiti
 6. ![image](https://github.com/ADTEK01/Digitek/assets/137839332/40ef113a-bdf7-492e-a53c-2e6889c1623f) EXCELENCIA "Nos retamos constantemente para elevar nuestros estándares."
 7. ![image](https://github.com/ADTEK01/Digitek/assets/137839332/6a1b5237-e528-43aa-b355-335c65c15f2f) RENTABILIDAD "El crecimiento y la rentabilidad sostenibles a largo plazo como enfoque."
 8. ![image](https://github.com/ADTEK01/Digitek/assets/137839332/dde113fe-72c7-4b65-b052-bfe80075ccd5) ÉTICA "Ética en todas nuestras acciones."
-#
-## Nuestros Servicios
-Hacemos que las cosas ocurran usando estrategia, imaginación y ejecución a partir de las más nuevas tecnologías y herramientas disponibles en el mercado.
+
 
 
 
