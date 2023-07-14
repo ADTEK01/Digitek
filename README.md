@@ -1,4 +1,5 @@
-# Digitek 💻
+# ![image](https://github.com/Digitek01/Digitek/assets/137839332/0e123c73-4f93-4fcd-807a-e27f471462c4)  Digitek
+
 Aceleramos la transformación digital de las empresas para aumentar su competitividad.
 
 ## Nuestros Valores
