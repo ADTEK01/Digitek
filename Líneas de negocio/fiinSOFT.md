@@ -1,4 +1,4 @@
-# ![image](https://github.com/Digitek01/Digitek/assets/137839332/055d612f-5051-4206-9451-23da2456d046)  fiinSOFT 
+# ![image](https://github.com/Digitek01/Digitek/assets/137839332/d77ca0b9-4c88-4a24-821a-1e23b4e675e4)  fiinSOFT 
 
 Sistemas para la inclusión financiera y para la innovación
 
