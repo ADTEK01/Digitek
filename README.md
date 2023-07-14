@@ -1,4 +1,4 @@
-# ![image](https://github.com/Digitek01/Digitek/assets/137839332/0e123c73-4f93-4fcd-807a-e27f471462c4)  Digitek
+# ![image](https://github.com/Digitek01/Digitek/assets/137839332/16ea90e0-d960-4c6e-b8cd-8567be20315c) ᴅɪɢɪᴛᴇᴋ
 
 Aceleramos la transformación digital de las empresas para aumentar su competitividad.
 
