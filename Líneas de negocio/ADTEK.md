@@ -1,6 +1,6 @@
  ![image](https://github.com/Digitek01/Digitek/assets/137839332/70e377d9-dfa1-4822-b50e-22c6b5139051)
 
-## ¿Qué es ADTEK?
+## Misión de ADTEK
 Elevar el nivel económico, social y digital de los egresados en Ingenierías Informáticas, abatiendo curvas de aprendizaje y aumentando las oportunidades.
  
 ## Perfil Egreso TEKERS
