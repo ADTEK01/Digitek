@@ -1,0 +1,8 @@
+Resuelve el siguiente desafio.
+Implementa un programa que permita al usuario ingresar nombres de alumnos y realizar diferentes operaciones utilizando la estructura pila y orientada a objetos.
+
+El programa debe presentar un menú con las opciones de apilar un nombre, desapilar el último nombre ingresado, contar la cantidad de nombres en la pila, mostrar el nombre en la cima de la pila y validar si la pila está vacía. 
+
+El programa debe repetir el menú hasta que el usuario decida salir.
+
+La resolucion es la siguiente: 
