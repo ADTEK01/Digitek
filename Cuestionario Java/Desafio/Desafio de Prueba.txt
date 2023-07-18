@@ -105,4 +105,6 @@ public class PilasMenu {
     }
 }
 
-Busca la manera de hacer mas sencillo este codigo. y abtente de usar chatGPT como se indico en los lineamientos
+Busca la manera de hacer mas sencillo este codigo. y abtente de usar chatGPT como se indico en los lineamientos.
+
+Tus resultados mandalo al siguiente correo para corroborarlos: 
