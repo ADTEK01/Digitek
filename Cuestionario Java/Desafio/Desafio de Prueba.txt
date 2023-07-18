@@ -6,3 +6,103 @@ El programa debe presentar un menú con las opciones de apilar un nombre, desapi
 El programa debe repetir el menú hasta que el usuario decida salir.
 
 La resolucion es la siguiente: 
+
+import java.util.Scanner;
+import java.util.Stack;
+
+public class PilasMenu {
+    Stack<String> nombres = new Stack<>();
+
+    public void menu() {
+        Scanner sca = new Scanner(System.in);
+        String ret;
+
+        do {
+            imprimirMenu();
+            String op = sca.next();
+
+            switch (op) {
+                case "1":
+                    ingresarNombres(sca);
+                    break;
+                case "2":
+                    desapilarNombre();
+                    break;
+                case "3":
+                    contarNombres();
+                    break;
+                case "4":
+                    mostrarCima();
+                    break;
+                case "5":
+                    validarPila();
+                    break;
+                default:
+                    System.out.println("Opción inválida. Intente nuevamente.");
+                    break;
+            }
+
+            System.out.print("¿Quiere realizar otra opción? \n");
+            ret = sca.next();
+        } while (ret.equalsIgnoreCase("Si"));
+
+        sca.close();
+    }
+
+    private void imprimirMenu() {
+        System.out.print("Elige una opción: \n" +
+                "1-Apilar\n" +
+                "2-Desapilar\n" +
+                "3-Contar\n" +
+                "4-Tope\n" +
+                "5-Validar\n" +
+                "R: ");
+    }
+
+    private void ingresarNombres(Scanner sca) {
+        String res;
+
+        do {
+            System.out.print("Ingresa el nombre del alumno: ");
+            nombres.push(sca.next());
+
+            System.out.print("¿Desea ingresar otro nombre? ");
+            res = sca.next();
+        } while (res.equalsIgnoreCase("Si"));
+    }
+
+    private void desapilarNombre() {
+        if (!nombres.isEmpty()) {
+            System.out.println("Equipo desapilado: " + nombres.pop());
+        } else {
+            System.out.println("La pila está vacía. No se puede desapilar ningún elemento.");
+        }
+    }
+
+    private void contarNombres() {
+        System.out.println("Existen: " + nombres.size() + " en la pila.");
+    }
+
+    private void mostrarCima() {
+        if (!nombres.isEmpty()) {
+            System.out.println("El equipo principal es: " + nombres.peek());
+        } else {
+            System.out.println("La pila está vacía.");
+        }
+    }
+
+    private void validarPila() {
+        if (nombres.empty()) {
+            System.out.println("No hay equipos.");
+        } else {
+            System.out.println("Sí hay equipos.");
+        }
+    }
+
+    public static void main(String[] args) {
+        PilasMenu obj = new PilasMenu();
+        obj.menu();
+    }
+}
+
+Busca la manera de hacer mas sencillo este codigo. y abtente de usar chatGPT como se indico en los lineamientos
