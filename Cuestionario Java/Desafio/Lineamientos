@@ -1,10 +1,15 @@
 Este desafío esta echo para poder visualizar que tan bien te desempeñas con el lenguaje Java, para ello este desafío se corroboro en chatgtp, por lo que evita usar esta herramienta para obtener una respuesta fácil, busca la forma de resolver.
 el desafío con tus conocimientos, esto para que explotes al máximo lo aprendido de este lenguaje.
+
 Como base antes de que vallas al código se solicita lo siguiente:
+
  - Alguna aplicación de lenguaje java como, por ejemplo: NetBeans, VisualStudioCode, etc.
+
  - Un jdk en la versión 17 a 18 ya sea de 32 o 64 bits para que funcione (Nota: la versión 
    19 igual funciona, pero debido a actualizaciones recientes, es algo inestable más si tu 
    equipo es de rendimiento bajo o medio).
+
  - Una maquina con Windows 10 o 11, con un mínimo de 560 de RAM.
+
  - Muchos ánimos y ganas de dar tu máximo esfuerzo.
 
